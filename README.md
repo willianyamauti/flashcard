@@ -12,6 +12,6 @@ The flashcard currently display words choosen randomly from a csv file, generati
 
 ## For future implementations
 - [ ] include more languages
-- [ ] interface improvments
+- [ ] interface improvements
 - [ ] further database implementation
 - [ ] API?
